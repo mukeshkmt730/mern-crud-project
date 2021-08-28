@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman",
+      "email": "rohitsharma123@gmail.com",
+      "phone": "3734265847",
+      "id": 1
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "kingkohli",
+      "email": "viratKohli123@gmail.com",
+      "phone": "7834265847",
+      "id": 2
+    },
+    {
+      "name": "Sikhar Dhawan",
+      "username": "gabber",
+      "email": "shikardhawan123@gmail.com",
+      "phone": "9034265847",
+      "id": 3
+    },
+    {
+      "name": "Yuraj Singh",
+      "username": "yuvi",
+      "email": "yurajsingh123@gmail.com",
+      "phone": "8734265847",
+      "id": 4
+    },
+    {
+      "name": "jugal kishor",
+      "username": "jigathik",
+      "email": "jugalkishore123@gmail.com",
+      "phone": "8134265847",
+      "id": 5
+    },
+    {
+      "name": "mukesh kumar",
+      "username": "mukeshkmt",
+      "email": "mukeshkmt730@gmail.com",
+      "phone": "8114493730",
+      "id": 6
+    }
+  ]
+}
